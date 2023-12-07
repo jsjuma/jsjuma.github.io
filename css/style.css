@@ -1,0 +1,22 @@
+body {
+    box-sizing: border-box;
+    margin: 10;
+    padding: 0;
+    background-color: aqua;
+}
+
+h1, h2, h3 {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    text-align: center;
+}
+
+h1 {
+    font-weight: bolder;
+    background-color: aliceblue;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
